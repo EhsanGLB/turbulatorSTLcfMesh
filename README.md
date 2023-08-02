@@ -8,6 +8,7 @@ It is working on foam-extend-4.1
 git clone https://github.com/EhsanGLB/turbulatorSTLcfMesh.git
 cd turbulatorSTLcfMesh/case
 ```
+
 1. First way
 ```bash
 surfaceFeatureEdges fluidDomain.stl fluidDomain.fms
@@ -22,6 +23,7 @@ checkMesh
 ```bash
 ./Allrun
 ```
+
 
 ## References
 * [Golab, Ehsan, Behzad Vahedi, Ankur Jain, Robert A. Taylor, and Kambiz Vafai. "Laminar forced convection in a tube with a nano-encapsulated phase change materials: Minimizing exergy losses and maximizing the heat transfer rate." Journal of Energy Storage 65 (2023): 107233.](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23006308)
