@@ -1,5 +1,5 @@
 # turbulatorSTLcfMesh
-This is a case to create a turbulator geometry  with STL file and CfMesh written based on foam-extend-4.1.
+This is a case to create a turbulator geometry using STL file and CfMesh written based on foam-extend-4.1.
 
 
 ## Getting Started
